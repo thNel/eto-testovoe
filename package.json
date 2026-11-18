@@ -4,5 +4,8 @@
   "private": true,
   "engines": {
     "node": ">=22.1.0"
+  },
+  "scripts": {
+    "start": "node speed-test.mjs"
   }
 }
